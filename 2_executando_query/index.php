@@ -4,6 +4,7 @@ $user= "root";
 $pass="";
 $db="banco_teste";
 
+//EXECUTAR QUERY
 $conn= new mysqli($host,$user, $pass, $db);
 
 $sql="SELECT * FROM carros";

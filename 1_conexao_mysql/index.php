@@ -1,4 +1,6 @@
 <?php
+
+//CONEXÃO com o banco
 $host= "localhost";
 $user= "root";
 $pass="";
